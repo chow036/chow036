@@ -63,8 +63,6 @@ const anmol = {
  > 
 > 🏆 5 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 21 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
@@ -124,7 +122,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2024 00:23:05 UTC
+ Last Updated on 02/03/2024 00:23:05 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/chow036/waka-readme-stats)**
